@@ -3,8 +3,8 @@ The Iraqi Arabic Dialect Dataset (IA2D) is generated and annotated to help resea
 The collected tweets annotated by three Iraqi native speaker experts. After reading the tweet by an expert, the expert can annotate the tweet as Positive if it includes positive sentiment and Negative if it includes hate speech sentiment, otherwise it annotated as I Don't Know(IDK). The other details of the annotation process are included in the reference: DOI:xx.xx.xx.xx <br>
 Below are the dataset annotations statistics: <br><br>
 Annotated Dataset Includes: <br>
-Positive           = 251<br>
-Negative           = 289<br>
-I Don't KNow (IDK) = 552<br>
-Neutral            = 78<br>
-Total              = 1170<br>
+Positive &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          = 251<br>
+Negative    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       = 289<br>
+I Don't KNow (IDK) &nbsp;= 552<br>
+Neutral &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;        = 78<br>
+Total       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       = 1170<br>
